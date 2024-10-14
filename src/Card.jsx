@@ -13,7 +13,7 @@ export default () => (
         <h3 className="back">Happy Birthday Love!!</h3>
         <p>Dear Love,</p>
         <p>
-          Happy birthday! I wish you all the best I love you so much, and I am so grateful to have you in my life. Happy Birthday! here's your coded card!!
+          Happy birthday! I wish you all the best I love you so much, and I am so grateful to have you in my life. Happy Birthday!
         </p>
         <p className="name">Angelo</p>
       </div>
